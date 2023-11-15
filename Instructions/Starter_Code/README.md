@@ -4,16 +4,16 @@ This tool uses unsupervised machine learning to perform a portfolio analysis of 
 ### Plots
 My HVPlots were not rendering within the coded file after pushing to github. So I have added the screenshots of the plots, in order, of the assignment for viewing.
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/Price_Change_Crypto.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/Price_Change_Crypto.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/KMeans_Elbow.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/KMeans_Elbow.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/KMeans_Scatter.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/KMeans_Scatter.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/PCA_Elbow.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/PCA_Elbow.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/PCA_Scatter.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/PCA_Scatter.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/Combined_Elbow.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/Combined_Elbow.png?raw=true)
 
-![alt text](https://github.com/jamesd0912/Crypto_Analysis/blob/main/images/Combined_Scatter.png?raw=true)
+![alt text](https://github.com/jamesd0912/Crypto_Analysis/main/images/Combined_Scatter.png?raw=true)
